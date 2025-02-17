@@ -59,9 +59,6 @@ Response from server: Server received: Hello from UDP Client
 - The IP address in `UDPClient.java` can be changed from `localhost` to a remote server IP.
 - This program demonstrates **basic UDP communication**; for a real-world application, consider **error handling, packet loss recovery, and security measures**.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Author
 [Ryan Habis]
 
